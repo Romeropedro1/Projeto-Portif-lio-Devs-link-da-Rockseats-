@@ -31,7 +31,7 @@ A estrutura do projeto é a seguinte:
 - **index.html**: Arquivo principal da página. Contém o HTML da estrutura do site, incluindo os links para redes sociais, botões, e modo claro/escuro.
 - **style.css**: Contém o estilo visual da página, incluindo a definição das cores, tamanhos, fontes, etc.
 - **script.js**: Controla a funcionalidade de alternância entre os modos claro e escuro.
-- **foto.rmero.jpg**: Imagem do desenvolvedor (ou pode ser substituída por uma nova imagem).
+- **foto.romero.jpg**: Imagem do desenvolvedor (ou pode ser substituída por uma nova imagem).
 
 ## Como Usar
 
